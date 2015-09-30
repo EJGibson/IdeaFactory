@@ -3,6 +3,25 @@
 Written on Tuesday, September 29, 2015. Vinay and I set up Gitbook, connected to my GitHub account. I've done some preliminary research re: IP, Copyright, Legal, etc. Partially influenced by my time in the Publishing industry, and also because of my general tendency toward planning, ownership, etc., this has been an important part of the process of working on our project. 
 
 ###Social Media and Brand Building Online (this deserves its own chapter
+
+This was something that early on was clear needed work alongside any other business development at hand, including product development. In fact, this bit, along with some solid **social listening**, would help us start to learn a lot of key things that would help us build in a variety of ways: 
+
+* build our business
+* build our product(s)
+* build our markets
+* build our expertise
+* build our networks
+* build our credibility
+* build or skillsets
+* and build our brand(s)
+
+(Here's how your day job can help here - you can:)
+
+* talk to your Marketing and Product Teams
+* access training materials (Digital Marketing; Social Media Training; Business Development; Brand Building)
+* access your colleagues' expertise - ready-made consultants
+* (and build your network in the process)
+
 So far I've worked on Social Media audience building - and the massaging of an online brand. Twitter, something I set up in an Elsevier social media workshop back in 2013, was mostly dormant until I started engaging around the 2015 Nepal earthquake back in April. Impressed by the results, I started to Tweet here and there - using it as a record of articles I felt were interesting. I used this strategy, also, because it was risk-free. I had no followers - my content didn't have to matter much. I discovered hashtags were useful and began including those (it was helpful to follow those via search around the earthquake).
 
 I started getting more serious about social media (Twitter emphasis) when the campaigns I was managing at work became more engaged in those channels. I needed to engage and be there, as well. So I met with a colleague at work (Social Media/Community Marketing Manager) to get the basics down. I proposed my own Handle at work - read all our Corporate Social Media guidelines to get familiar with the core brand alignment, and got to work. 
