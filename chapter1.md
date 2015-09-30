@@ -1,6 +1,6 @@
 # Copyright, IP, and Legal
 
-**Need to add - - Biblio reference:** Circular 1 from this site: http://copyright.gov/help/faq/faq-general.html#what 
+**Need to add - - Biblio reference:** Circular 1 from this site: http://copyright.gov/help/faq/faq-general.html#what . From United States Copyright Office (author). Circular 1: Copyright Basics (title). 
 
 ###Investigating Copyright
 ####How does one copyright something? 
