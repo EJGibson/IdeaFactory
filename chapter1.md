@@ -50,9 +50,23 @@ We are circling a few customer problems. Our strategy has been informed not only
 
 One thing that sticks with me - Vinay mentioned that a good strategy for buying **stocks** that will grow is to look around you at what you see people using. **Chipotle** was a good example of this. **Buffalo Wild Wings** and others. So we tried to think of problems that people immediately around us were having, including notably, ourselves. 
 
-###From Customer Problems to Early Project Concepts / Ideas###
+###From Customer Problems to Early Ideas###
 
+**Shelf life of a stock idea (online blogs; etc.)**
 
+**Houses** - Mapping out the full picture
+* Financial
+* Timewise
+* Mental bandwidth (decision making - informed by social science ideas)
+* recommendations for whether to rent/buy; what you can do to prepare yourself even if you're noy buying (e.g. how to invest smartly while not investing in real estate)
+
+**Target audience**: millennials and other Americans
+
+**Other message**: it's not necessarily the best investment; here's the other side of the coin, and here's how you can still be prepared even while not buying.
+
+**Challenges**: so many dimensions; so much data; so many different customer needs; and potentially - people don't wnat to think of it this way. They buy houses emotionally. It wouldn't take off.
+
+**Connecting more mature audiences to technology** 
 
 ###Investigating Copyright
 ####How does one copyright something? 
