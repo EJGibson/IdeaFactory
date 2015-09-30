@@ -1,5 +1,14 @@
 # Copyright, IP, and Legal
 
+Written on Tuesday, September 29, 2015. Vinay and I set up Gitbook, connected to my GitHub account. I've done some preliminary research re: IP, Copyright, Legal, etc. Partially influenced by my time in the Publishing industry, and also because of my general tendency toward planning, ownership, etc., this has been an important part of the process of working on our project. 
+
+###Social Media and Brand Building Online (this deserves its own chapter
+So far I've worked on Social Media audience building - and the massaging of an online brand. Twitter, something I set up in an Elsevier social media workshop back in 2013, was mostly dormant until I started engaging around the 2015 Nepal earthquake back in April. Impressed by the results, I started to Tweet here and there - using it as a record of articles I felt were interesting. I used this strategy, also, because it was risk-free. I had no followers - my content didn't have to matter much. I discovered hashtags were useful and began including those (it was helpful to follow those via search around the earthquake).
+
+I started getting more serious about social media (Twitter emphasis) when the campaigns I was managing at work became more engaged in those channels. I needed to engage and be there, as well. So I met with a colleague at work (Social Media/Community Marketing Manager) to get the basics down. I proposed my own Handle at work - read all our Corporate Social Media guidelines to get familiar with the core brand alignment, and got to work. 
+
+**Buffer** is amazing and deserves its own section sometime. This was the best recommendation my colleague offered. I use it more personally than professionally. (Though I always stand firm that my personal/professional development helps my corporate professional development, by making me more engaged, and by building a set of skills that are really applicable to the business in many ways). Section to come **how being an entreprenuer (even if you're in the business of failing) helps you be a better employee**.  
+
 **Need to add - - Biblio reference:** Circular 1 from this site: http://copyright.gov/help/faq/faq-general.html#what . From United States Copyright Office (author). Circular 1: Copyright Basics (title). 
 
 ###Investigating Copyright
