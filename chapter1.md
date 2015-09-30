@@ -1,5 +1,7 @@
 # Copyright, IP, and Legal
 
+**Need to add - - Biblio reference:** Circular 1 from this site: http://copyright.gov/help/faq/faq-general.html#what 
+
 ###Investigating Copyright
 ####How does one copyright something? 
 
