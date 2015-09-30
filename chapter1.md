@@ -46,19 +46,18 @@ More elements of my personal/professional strategy are **getting to know your au
 ###Getting Started with Customer Problems
 Thank you, **Pragmatic Marketing**, for being so amazing. It's really streamlined my thinking. I use it in corporate professional world, and personal/professional world. 
 
-###Investigating Copyright
-####How does one copyright something? 
-
-Apparently, it used to be a challenge to do this - it used to come only when secured via publication. Though now, copyright is automatically in place. Though as a document by the U.S. government indicates, there are advantages to registration.
-
 We are circling a few customer problems. Our strategy has been informed not only by **PM** but also by reading we've done over time; by my experience watching the business that I'm a part of grow and build, as well as things we've read about investing, the startup world, and general topics of interest. 
 
 One thing that sticks with me - Vinay mentioned that a good strategy for buying **stocks** that will grow is to look around you at what you see people using. **Chipotle** was a good example of this. **Buffalo Wild Wings** and others. So we tried to think of problems that people immediately around us were having, including notably, ourselves. 
 
-###From Customer Problems to Early Ideas###
+###From Customer Problems to Early Project Concepts / Ideas###
 
 
 
+###Investigating Copyright
+####How does one copyright something? 
+
+Apparently, it used to be a challenge to do this - it used to come only when secured via publication. Though now, copyright is automatically in place. Though as a document by the U.S. government indicates, there are advantages to registration.
 
 "**How to Secure a Copyright**
 
