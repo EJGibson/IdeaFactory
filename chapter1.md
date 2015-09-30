@@ -22,7 +22,17 @@ This was something that early on was clear needed work alongside any other busin
 * access your colleagues' expertise - ready-made consultants
 * (and build your network in the process)
 
-So far I've worked on Social Media audience building - and the massaging of an online brand. Twitter, something I set up in an Elsevier social media workshop back in 2013, was mostly dormant until I started engaging around the 2015 Nepal earthquake back in April. Impressed by the results, I started to Tweet here and there - using it as a record of articles I felt were interesting. I used this strategy, also, because it was risk-free. I had no followers - my content didn't have to matter much. I discovered hashtags were useful and began including those (it was helpful to follow those via search around the earthquake).
+So we started with Social Media audience building - and the massaging of an online brand. Twitter, something originally set up in a corporate social media workshop back in 2013, was mostly dormant until engagement picked up around the 2015 Nepal earthquake back in April. Impressed by the results, it cropped up here and there - used as a record of interesting articles. It was also a risk-free, benefit-full learning experience: without many followers, mistakes are easily forgiven. Experimentation is reasonable. I discovered hashtags were useful and began including those (it was helpful to follow those via search around the earthquake).
+
+The process went something like this: 
+
+* sign up
+* listen and watch
+* engage a bit ("Hello, World!" I read this! With link, no hashtags, and there you have it)
+* "Hey, hashtags are good"
+* "Hey, mentions are good"
+* "Hey, DM's anyone?"
+* MMM, buffer, Crowdfire, Topsy, etc. etc.
 
 I started getting more serious about social media (Twitter emphasis) when the campaigns I was managing at work became more engaged in those channels. I needed to engage and be there, as well. So I met with a colleague at work (Social Media/Community Marketing Manager) to get the basics down. I proposed my own Handle at work - read all our Corporate Social Media guidelines to get familiar with the core brand alignment, and got to work. 
 
@@ -31,6 +41,9 @@ I started getting more serious about social media (Twitter emphasis) when the ca
 More elements of my personal/professional strategy are **getting to know your audiences/communities/markets**. This is critical. My **Pragmatic Marketing Training** has taught me well that solving customer problems is the core driving factors for any good Product Manager (and that goes for developers; marketing managers; anyone trying to make something that will be sold. It goes for people, too - remember, **you're always the product**; and it's always the **Startup of You**.
 
 **Need to add - - Biblio reference:** Circular 1 from this site: http://copyright.gov/help/faq/faq-general.html#what . From United States Copyright Office (author). Circular 1: Copyright Basics (title). 
+
+###Getting Started with Customer Problems
+
 
 ###Investigating Copyright
 ####How does one copyright something? 
