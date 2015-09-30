@@ -50,4 +50,31 @@ The use of the copyright notice is the responsibility of the
 copyright owner and does not require advance permission
 from, or registration with, the Copyright Office."
 
+####Details on Notice of Copyright (Visuals)
+
+Again from page 4 of http://copyright.gov/circs/circ01.pdf: 
+
+"Form of Notice for Visually Perceptible Copies
+The notice for visually perceptible copies should contain all
+the following three elements:
+
+1 The symbol © (the letter C in a circle), or the word
+“Copyright,” or the abbreviation “Copr.”; and
+
+2 The year of first publication of the work. In the case of
+compilations or derivative works incorporating previously
+published material, the year date of first publication of
+the compilation or derivative work is sufficient. The year
+date may be omitted where a pictorial, graphic, or sculptural
+work, with accompanying textual matter, if any, is
+reproduced in or on greeting cards, postcards, stationery,
+jewelry, dolls, toys, or any useful article; and
+
+3 The name of the owner of copyright in the work, or an
+abbreviation by which the name can be recognized, or a
+generally known alternative designation of the owner.
+
+Example: © 2011 John Doe"
+
+
 
