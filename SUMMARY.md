@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* Guides to Startups
+* [Guides to Startups](guides_to_startups.md)
 
