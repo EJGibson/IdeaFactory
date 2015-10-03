@@ -100,9 +100,11 @@ ion of each role you need to hire, and list of critical skills. Do this for ever
 "“The golden rule for every business man is this:
 Put yourself in your customer’s place.” – Orison Swett Marden" (SRG 15)
 
-**The five W's of Knowing your Customer 
+**The five W's of Knowing your Customer** 
 
-"Who is the paying customer, exactly? What motivates them to purchase your product? Where are they likely to purchase your product? When are they likely to purchase your product? Why would they purchase your product over other solutions? As a bonus, you should also be able to address the How’s: How are they likely to find out about it and how much will they pay for it? Simple questions, but super hard to answer without digging deeply into the needs, wants, and pain points of the customer."
+"Who is the paying customer, exactly? What motivates them to purchase your product? Where are they likely to purchase your product? When are they likely to purchase your product? Why would they purchase your product over other solutions? As a bonus, you should also be able to address the How’s: How are they likely to find out about it and how much will they pay for it? Simple questions, but super hard to answer without digging deeply into the needs, wants, and pain points of the customer." (SRG 15) 
+
+
 
 
 
