@@ -27,3 +27,5 @@ Recommended Readings and Resources: Offers links to best-in-class books, tools, 
 
 **Another good point** 
 "think about how to simplify the idea. Too much has to happen before anything can happen, so the simpler it is, the more likely it can be done. If your idea requires a lot of complexity or ongoing customization to serve the market, think hard about its viability and your ability to make it happen." (5 -SRG) 
+
+Simplicity is likely very tough to manage - though it is critical to success vis-a-vis manageability. For small ventures, side ventures, projects that are a means to growth rather than to, say, gaining investory attention or otherwise - this is especially important. 
