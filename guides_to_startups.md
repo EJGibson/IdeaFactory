@@ -74,6 +74,13 @@ actually want, and to spend as little money as possible.”
 
 "What does it mean to “form” the core team? It means the business must have a Founders Agreement, Shareholder Buy-Sell Agreement, Stock Vesting Agreement and Schedule, and other legal instruments that institutionalize the role, responsibilities and compensation of the core team. Many startups have failed or suffered serious setbacks because the founders and/or core team operated on a hand shake or weak organizational and management documents." (SRG 11)
 
+###Hiring
 
+**Key questions to ask of a new hire**
+
+"Hire everyone based on the three-way test: 1) Can s/he do the job (competency)? 2) Will s/he do the job (capability)? 3) Can we stand to work with her or him as s/he does the job (chemistry)?
+
+ Research related job postings from similar companies and write job descriptions that include a compelling business vision, clear description of each role you need to hire, and list of critical skills. Do this for every key role you need now or in the future. Read them weekly, post them to friends and on job boards. This exercise keeps you focused on “who” you must have to eventually succeed.
+"
 
 
