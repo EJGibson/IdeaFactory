@@ -85,6 +85,15 @@ actually want, and to spend as little money as possible.”
 "Research related job postings from similar companies and write job descriptions that include a compelling business vision, clear descript
 ion of each role you need to hire, and list of critical skills. Do this for every key role you need now or in the future. Read them weekly, post them to friends and on job boards. This exercise keeps you focused on “who” you must have to eventually succeed." (SRG 12)
 
+###Building a Board of Advisors
+
+* "Identify credible domain experts in your field or in one of the key areas of your product development, and invite three of them to meet you via Google Hangout or Skype. During the conversation, explain your vision and request if you can speak again to get feedback on your approach. Repeat this process until you find three or four domain experts willing to join your board of advisors."
+
+* "Allocate about 15% of the company’s common stock to a stock option pool and issue key employees options which vest over 3-4 years."
+
+* "Create a board of advisors and draft an equity compensation plan and meeting schedule for the advisors. Allocate and issue approximately 0.25% of company stock to each advisor, to be vested over a 2-3 year period."
+* 
+
 
 
 
