@@ -126,16 +126,22 @@ It is best to admit them quickly and get on with improving your other innovation
 
 **Good recommended steps on the way to a MVP**
 
-" Create a use case and a user persona for your product. Validate it with actual users.
-￼￼
- Write one paragraph describing the entire offering that you are trying to create, or have created. Write at least fifteen different key “Features” that your offering needs to have at launch.
- Arrange the “Features” into logical “Groups,” and sort the “Features” by placing the most important “Features” at the top of the “Group” list and the less important ones at the bottom.
- Order the “Groups” by placing the most important “Groups” first, building a basic “Development Roadmap.” Eliminate any less important “Features.”
- Organize “Features” in the most important “Groups” into releases, and identify your first minimum viable product (“MVP”) release that is simple. See http://fndri.com/yVKzvp as a template.
- Write two sentences describing each “Group” and two sentences on the key “Features” in your MVP, and provide a strategy and time estimate to develop each “Feature.”
- Use basic prototyping tools, such as Balsamiq, Protoshare or Divshot to develop a non-functional mockup of your MVP.
-￼￼
- Develop a proposal for an aggressive two week product development sprint to complete a series of key features."
+* Create a use case and a user persona for your product. Validate it with actual users.
+
+* Write one paragraph describing the entire offering that you are trying to create, or have created. Write at least fifteen different key “Features” that your offering needs to have at launch.
+
+* Arrange the “Features” into logical “Groups,” and sort the “Features” by placing the most important “Features” at the top of the “Group” list and the less important ones at the bottom.
+
+* Order the “Groups” by placing the most important “Groups” first, building a basic “Development Roadmap.” Eliminate any less important “Features.”
+* Organize “Features” in the most important “Groups” into releases, and identify your first minimum viable product (“MVP”) release that is simple. See http://fndri.com/yVKzvp as a template.
+
+* Write two sentences describing each “Group” and two sentences on the key “Features” in your MVP, and provide a strategy and time estimate to develop each “Feature.”
+
+* Use basic prototyping tools, such as Balsamiq, Protoshare or Divshot to develop a non-functional mockup of your MVP.
+
+* ￼￼Develop a proposal for an aggressive two week product development sprint to complete a series of key features."
 (SRG 19-20)
+
+
 
 
