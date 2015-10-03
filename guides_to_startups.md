@@ -61,7 +61,13 @@ Even though you may still be in the idea stage and not yet sure whether the oppo
 "“You need three things to create a successful startup:
 to start with good people, to make something customers
 actually want, and to spend as little money as possible.”
-― Paul Graham"
+― Paul Graham" (11 SRG) 
 
+**On the Importance of a Strong Team**
+"Most venture capitalists invest more on the strength of the team than on any other factor. It is often said among investors, “We bet on the jockey, not on the horse.”" 
+
+**On the Power of Two**
+
+"How many founders should a startup team have? Studies show that two founders are ideal. Famous founder duos include Hewlett-Packard (HP), Gates-Allen (Microsoft), Lerner-Bosack (Cisco), and Jobs-Wozniak (Apple). With duos, one is usually good at business development and the other good at product development." (11 SRG)
 
 
