@@ -70,4 +70,10 @@ actually want, and to spend as little money as possible.”
 
 "How many founders should a startup team have? Studies show that two founders are ideal. Famous founder duos include Hewlett-Packard (HP), Gates-Allen (Microsoft), Lerner-Bosack (Cisco), and Jobs-Wozniak (Apple). With duos, one is usually good at business development and the other good at product development." (11 SRG)
 
+**Required Documents / Points to Consider **
+
+"What does it mean to “form” the core team? It means the business must have a Founders Agreement, Shareholder Buy-Sell Agreement, Stock Vesting Agreement and Schedule, and other legal instruments that institutionalize the role, responsibilities and compensation of the core team. Many startups have failed or suffered serious setbacks because the founders and/or core team operated on a hand shake or weak organizational and management documents." (SRG 11)
+
+
+
 
