@@ -25,3 +25,5 @@ Recommended Readings and Resources: Offers links to best-in-class books, tools, 
 **Good point** 
 "think about your idea as a “project,” or an “experiment,” not as a business. Once the project achieves certain milestones (see below), you can turn it into a business. *Many people will tell you to “focus, focus, focus” on one idea. That’s actually bad advice. It is okay to try lots of different ideas until one sticks -- until it keeps you up at night and forces you to do nothing but it. The right idea will find you.* You will know you have the right idea when your enthusiasm is not driven solely by your love for the idea, but by the love for the idea from people who will buy it." (5 SRG - emphasis mine)
 
+**Another good point** 
+"think about how to simplify the idea. Too much has to happen before anything can happen, so the simpler it is, the more likely it can be done. If your idea requires a lot of complexity or ongoing customization to serve the market, think hard about its viability and your ability to make it happen." (5 -SRG) 
