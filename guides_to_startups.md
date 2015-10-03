@@ -54,7 +54,7 @@ Even though you may still be in the idea stage and not yet sure whether the oppo
 
 *The first thing to come to grips with is that YOU are not your company.* Your company is a creature of the law. Your company has a life of its own. It wants to survive and it wants to protect itself, even from you. What is best for your company is not necessarily best for you. The role you play determines your obligations and your liability. As an officer and/or director of your startup company, the law will hold you accountable. And the minute you hire someone, or take investment money from someone, or enter into a business contract with someone, your obligations and liabilities increase exponentially." [emphasis mine SRG 8)
 
-
+###Important - Pages 8 - 10 dense but necessary info - need to review
 
 
 
