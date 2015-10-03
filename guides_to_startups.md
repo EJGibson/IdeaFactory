@@ -126,7 +126,7 @@ It is best to admit them quickly and get on with improving your other innovation
 
 **Good recommended steps on the way to a MVP**
 
-*All of the below directly quoted from SRG (19-21)*
+*All of the below directly quoted from SRG (19-20)*
 
 * Create a use case and a user persona for your product. Validate it with actual users.
 
@@ -144,6 +144,8 @@ It is best to admit them quickly and get on with improving your other innovation
 * ￼￼Develop a proposal for an aggressive two week product development sprint to complete a series of key features."
 (SRG 19-20)
 
+
+###Guides to Prototyping/Wireframing etc. 
 
 
 
