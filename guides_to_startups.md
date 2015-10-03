@@ -29,3 +29,9 @@ Recommended Readings and Resources: Offers links to best-in-class books, tools, 
 "think about how to simplify the idea. Too much has to happen before anything can happen, so the simpler it is, the more likely it can be done. If your idea requires a lot of complexity or ongoing customization to serve the market, think hard about its viability and your ability to make it happen." (5 -SRG) 
 
 Simplicity is likely very tough to manage - though it is critical to success vis-a-vis manageability. For small ventures, side ventures, projects that are a means to growth rather than to, say, gaining investory attention or otherwise - this is especially important. 
+
+#####Revenue
+"decide on ONE revenue stream. Use that to guide you on exactly what it is you are building and in what order. Think about your ability to build the product and bring it to market without any outside capital. Do you have the capital, or access to friends and family capital? Most investors don’t
+invest in ideas or to build product, they invest in traction and growth -- traction with paying customers and growth in sales and profits." (SRG 5-6)
+
+
