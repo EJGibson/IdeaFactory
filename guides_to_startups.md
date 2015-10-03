@@ -22,19 +22,19 @@ Recommended Readings and Resources: Offers links to best-in-class books, tools, 
 – Bob Metcalfe (Founder of 3Com and inventor of Ethernet)"
 (4 - SRG)
 
-**Good point** 
+**Think "Project" or "Experiment" and Don't Limit Your Focus Too Early** 
 "think about your idea as a “project,” or an “experiment,” not as a business. Once the project achieves certain milestones (see below), you can turn it into a business. *Many people will tell you to “focus, focus, focus” on one idea. That’s actually bad advice. It is okay to try lots of different ideas until one sticks -- until it keeps you up at night and forces you to do nothing but it. The right idea will find you.* You will know you have the right idea when your enthusiasm is not driven solely by your love for the idea, but by the love for the idea from people who will buy it." (5 SRG - emphasis mine)
 
-**Another good point** 
+**Simplify, simplify, simplify (the three keys to success)** 
 "think about how to simplify the idea. Too much has to happen before anything can happen, so the simpler it is, the more likely it can be done. If your idea requires a lot of complexity or ongoing customization to serve the market, think hard about its viability and your ability to make it happen." (5 -SRG) 
 
 Simplicity is likely very tough to manage - though it is critical to success vis-a-vis manageability. For small ventures, side ventures, projects that are a means to growth rather than to, say, gaining investory attention or otherwise - this is especially important. 
 
-#####Revenue
+#####Revenue Focus - the one place to get single-minded
 "decide on ONE revenue stream. Use that to guide you on exactly what it is you are building and in what order. Think about your ability to build the product and bring it to market without any outside capital. Do you have the capital, or access to friends and family capital? Most investors don’t
 invest in ideas or to build product, they invest in traction and growth -- traction with paying customers and growth in sales and profits." (SRG 5-6)
 
-** *This will require additional attention - what does this mean and how to apply it?* **
+** *[[[[This will require additional attention - what does this mean and how to apply it!!! ]]]]* **
 
 ** * How to check and see if there are existing ideas / products out there doing what you hope to do: * **
 
