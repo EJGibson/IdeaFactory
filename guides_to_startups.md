@@ -16,3 +16,9 @@ Things to Think About and Decide: Offers suggestions on how to approach the topi
 Things to Do (or not): Offers a list of do’s and don’ts, but probably covers some best practices you may not have thought about.
 Recommended Readings and Resources: Offers links to best-in-class books, tools, templates, web sites, and services that can help you start and build your business. This is the real value of this guide. Mix and match the readings and resources to create your personal blueprint for success."(2 Startup Resource Guide)
 
+### Startup Resource Guide Chapter - Validate
+
+"“Here’s the difference between a visionary and an entrepreneur. Both have visions, which are a dime a dozen. But an entrepreneur has, in addition to visions, plans. In addition to plans, actions.”
+– Bob Metcalfe (Founder of 3Com and inventor of Ethernet)"
+(4 - SRG)
+
