@@ -2,5 +2,7 @@
 
 ####Resources for Ideation Phase
 * 
-Excellent set of resources on page 7 of SRG - research and pull in the best ideas from these.
+Excellent set of resources on page 7 of SRG - research and pull in the best ideas from these. Check links - and pull in here.
+
+
 
