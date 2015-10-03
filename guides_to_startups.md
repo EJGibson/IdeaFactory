@@ -104,6 +104,8 @@ Put yourself in your customer’s place.” – Orison Swett Marden" (SRG 15)
 
 "Who is the paying customer, exactly? What motivates them to purchase your product? Where are they likely to purchase your product? When are they likely to purchase your product? Why would they purchase your product over other solutions? As a bonus, you should also be able to address the How’s: How are they likely to find out about it and how much will they pay for it? Simple questions, but super hard to answer without digging deeply into the needs, wants, and pain points of the customer." (SRG 15) 
 
+####[[Review market research chapter]] 15-17
+
 
 
 
