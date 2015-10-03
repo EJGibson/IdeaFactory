@@ -58,5 +58,10 @@ Even though you may still be in the idea stage and not yet sure whether the oppo
 
 ###Notes from the Startup Resource Guide chapter "Form the Team" 
 
+"“You need three things to create a successful startup:
+to start with good people, to make something customers
+actually want, and to spend as little money as possible.”
+― Paul Graham"
+
 
 
