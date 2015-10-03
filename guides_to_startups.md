@@ -34,4 +34,6 @@ Simplicity is likely very tough to manage - though it is critical to success vis
 "decide on ONE revenue stream. Use that to guide you on exactly what it is you are building and in what order. Think about your ability to build the product and bring it to market without any outside capital. Do you have the capital, or access to friends and family capital? Most investors don’t
 invest in ideas or to build product, they invest in traction and growth -- traction with paying customers and growth in sales and profits." (SRG 5-6)
 
+** *This will require additional attention - what does this mean and how to apply it?* **
+
 
