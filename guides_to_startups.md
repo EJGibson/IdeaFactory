@@ -41,4 +41,20 @@ invest in ideas or to build product, they invest in traction and growth -- tract
 
 Excellent set of resources on page 7 of SRG - research and pull in the best ideas from these.
 
+###Notes from Startup Resource Guide Chapter - "Form the Company"
+
+"“The only thing worse than starting something and failing... is not starting something.”
+—Seth Godin, Squidoo founder, author and blogger"
+(SRG page 8) 
+
+**On Forming a Company - Logistics (Legal and Otherwise)
+
+"
+Even though you may still be in the idea stage and not yet sure whether the opportunity you have identified can be turned into a viable business, you should form a legal entity if you plan to pursue it. A legally-formed company affords you and your idea protections that are not available to you as an individual. Most startup companies are corporations, not sole proprietorships. A corporation limits shareholder liability, is a repository for intellectual property and other assets, and provides a vehicle for inbound investment.
+
+*The first thing to come to grips with is that YOU are not your company.* Your company is a creature of the law. Your company has a life of its own. It wants to survive and it wants to protect itself, even from you. What is best for your company is not necessarily best for you. The role you play determines your obligations and your liability. As an officer and/or director of your startup company, the law will hold you accountable. And the minute you hire someone, or take investment money from someone, or enter into a business contract with someone, your obligations and liabilities increase exponentially." [emphasis mine SRG 8)
+
+
+
+
 
