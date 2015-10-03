@@ -36,4 +36,6 @@ invest in ideas or to build product, they invest in traction and growth -- tract
 
 ** *This will require additional attention - what does this mean and how to apply it?* **
 
+** * How to check and see if there are existing ideas / products out there doing what you hope to do: * **
 
+"Follow blogs that cover your market. Checkout Go2Web20 to see if there are similar sites on the market as the one you have in mind."
