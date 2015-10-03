@@ -106,6 +106,10 @@ Put yourself in your customer’s place.” – Orison Swett Marden" (SRG 15)
 
 ####[[Review market research chapter]] 15-17
 
+###Startup Resource Guide Chapter - Develop and Test Product Prototype
+
+
+
 
 
 
