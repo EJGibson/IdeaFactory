@@ -92,7 +92,11 @@ ion of each role you need to hire, and list of critical skills. Do this for ever
 * "Allocate about 15% of the company’s common stock to a stock option pool and issue key employees options which vest over 3-4 years."
 
 * "Create a board of advisors and draft an equity compensation plan and meeting schedule for the advisors. Allocate and issue approximately 0.25% of company stock to each advisor, to be vested over a 2-3 year period."
+(SRG 13)
 
+###Startup Resource Guide Chapter - Conduct Primary Market Research 
+
+**The five W's of Knowing your Customer 
 
 
 
