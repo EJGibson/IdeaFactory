@@ -108,8 +108,21 @@ Put yourself in your customer’s place.” – Orison Swett Marden" (SRG 15)
 
 ###Startup Resource Guide Chapter - Develop and Test Product Prototype
 
+“Sometimes when you innovate, you make mistakes.
+It is best to admit them quickly and get on with improving your other innovations.” – Steve Jobs:
+(SRG 18) 
 
+"Product prototyping and development is a six-step process:
 
+(1) Collect product, market and competitive data (with an emphasis on primary market research), to validate the “sweet spot” of your product.
+
+(2) Brainstorm features and focus on the one or two critical features that customers want most.
+
+(3) Develop a prototype – even if it is a paper mockup. (4) Test the prototype with target customers.
+
+(5) Measure the customer feedback; rinse and repeat until you have a product specification that customers love.
+
+(6) Build the *real* product on a rapid development schedule and get it into the hands of customers for further testing and refinement."
 
 
 
