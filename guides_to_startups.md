@@ -147,5 +147,8 @@ It is best to admit them quickly and get on with improving your other innovation
 
 ###Guides to Prototyping/Wireframing etc. (20-21)
 
+###Startup Resource Guide Chapter - Scrub Business Plan and Projections
+*Needs work to review resources and then summarize*
+
 
 
