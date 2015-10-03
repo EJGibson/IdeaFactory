@@ -126,7 +126,7 @@ It is best to admit them quickly and get on with improving your other innovation
 
 **Good recommended steps on the way to a MVP**
 
-*All of the below directly quoted from SRG (19-21)
+*All of the below directly quoted from SRG (19-21)*
 
 * Create a use case and a user persona for your product. Validate it with actual users.
 
