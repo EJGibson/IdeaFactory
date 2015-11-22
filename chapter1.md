@@ -1,6 +1,6 @@
 # Copyright, IP, and Legal
 
-Written on Tuesday, September 29, 2015. Vinay and I set up Gitbook, connected to my GitHub account. I've done some preliminary research re: IP, Copyright, Legal, etc. Partially influenced by my time in the Publishing industry, and also because of my general tendency toward planning, ownership, etc., this has been an important part of the process of working on our project. 
+Written on Tuesday, September 29, 2015. VM and I set up Gitbook, connected to my GitHub account. I've done some preliminary research re: IP, Copyright, Legal, etc. Partially influenced by my time in the Publishing industry, and also because of my general tendency toward planning, ownership, etc., this has been an important part of the process of working on our project. 
 
 ###Social Media and Brand Building Online (this deserves its own chapter
 
